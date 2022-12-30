@@ -1,0 +1,15 @@
+untime of the test LinearSVC OneVsOne SVM model is 0.08461713790893555 
+Model LinearSVC OneVsOne SVM Test Mean Square Error :  0.39466737064413937
+Runtime of the test SVC with RBF kernel model is 0.0695333480834961 
+Model SVC with RBF kernel Test Mean Square Error :  0.39466737064413937
+Runtime of the test SVC with polynomial kernel  degree 2 model is 9.150131940841675 
+Model SVC with polynomial kernel  degree 2 Test Mean Square Error :  0.42832629355860613
+Runtime of the test SVC with polynomial kernel  degree 3 model is 10.64562702178955 
+Model SVC with polynomial kernel  degree 3 Test Mean Square Error :  0.4949841605068638
+Runtime of the test SVC with polynomial kernel  degree 4 model is 12.27904748916626 
+Model SVC with polynomial kernel  degree 4 Test Mean Square Error :  0.48270855332629353
+LinearSVC OneVsOne SVM accuracy: 76.610348468849
+SVC with RBF kernel accuracy: 76.610348468849
+SVC with polynomial kernel  degree 2 accuracy: 68.45300950369588
+SVC with polynomial kernel  degree 3 accuracy: 59.72808870116156
+SVC with polynomial kernel  degree 4 accuracy: 57.51055966209081
