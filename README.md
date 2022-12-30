@@ -8,6 +8,6 @@ comments and likes they obtained. The aim is to analyze which factors affect the
 popularity of a video and predict the number of likes obtained by a video.
 
 ## WHICH TASKS WAS DONE.
-Pre-processing was applied on the provided dataset using encoding.
+Pre-processing was applied on the provided dataset using encoding.  
 Method of Feature Selection and Experiment with regression techniques to
 reduce the error on prediction of number of likes of a video.
