@@ -1,0 +1,5 @@
+Runtime of the train polynomial_regression degree=2 model is 0.06905579566955566
+Runtime of the test polynomial_regression degree=2 model : 0.0 
+Model polynomial_regression degree=2 Cross Validation  scores :  0.00012936835227556537
+Model polynomial_regression degree=2 train Mean Square Error :  0.00012462695700895727
+Model polynomial_regression degree=2 test Mean Square Error :  0.00013380101833585214

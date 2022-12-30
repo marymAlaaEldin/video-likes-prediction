@@ -1,0 +1,5 @@
+Runtime of the train multi_linear_regression model is 0.06899833679199219
+Runtime of the test multi_linear_regression model is 0.015627145767211914 
+Model multi_linear_regression Cross Validation  scores:  0.00026398012301947365
+Model multi_linear_regression  train Mean Square Error :  0.00025586449013528003
+Model multi_linear_regression test Mean Square Error :  0.00025220377016107624
